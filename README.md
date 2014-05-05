@@ -19,7 +19,7 @@ Through my experiences, good and bad, observations and introspection, I come to 
 5. **Pessimism, negativism and disbelief** in all great things life has reserved for me and commit to *counting my blessings, appreciating each moment, never skipping an opportunity to be and make someone happy*.
 
 
-And, above everything else, **I renounce to being alive and commit to life and living.**
+And, above everything else, **I renounce to just being alive and commit to life and living.**
 
 ***
 
