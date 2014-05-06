@@ -12,4 +12,4 @@ Através das minhas experiências, boas e más, observações e introspeção, e
 
 5. **Pessimismo, negativismo e não crença** em todas as grandes coisas que a vida me reserva e comprometer-me a *contar as minhas bençãos, apreciar cada momento, nunca desperdiçar uma oportunidade de ser e fazer alguém feliz*
 
-E acima de tudo, *Eu renuncio a só estar vivo e comprometo-me com a vida e viver.*
+E acima de tudo, *Eu renuncio a só estar vivo e comprometo-me com a vida e a viver.*
