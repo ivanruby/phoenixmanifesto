@@ -1,12 +1,12 @@
-phoenixmanifesto
+The Phoenix Manifesto
 ================
 
 A manifesto about attitude towards life
 
 
-##Phoenix Manifesto
+##Manifesto
 
-Through my experiences, good an bad, observations and introspection, I come to renounce:
+Through my experiences, good and bad, observations and introspection, I come to renounce:
 
 1. **Procrastination** and commit to *immediate action*
 
@@ -19,12 +19,16 @@ Through my experiences, good an bad, observations and introspection, I come to r
 5. **Pessimism, negativism and disbelief** in all great things life has reserved for me and commit to *counting my blessings, appreciating each moment, never skipping an opportunity to be and make someone happy*.
 
 
-And, above everything else, **I renounce to being alive and commit to life and living**
+And, above everything else, **I renounce to just being alive and commit to life and living.**
 
 ***
 
 ## Ideas, suggestions, feedback?
 If you use github/bitbucket fork this repo and submit a pull request, open an issue or simply drop me a mail at info@ivanruby.com
 
-##Copyright
-Copyright &copy; 2014 Ivan Ruby.
+##License
+This project is licensed under [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Cheers!
+
+Ivan Ruby
