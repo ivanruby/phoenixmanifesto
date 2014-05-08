@@ -566,3 +566,43 @@ dd p:first-child {
   font-size: .85em;
   font-style: italic;
 }
+
+#translations {
+  display: inline;
+  height: 30px;
+}
+
+#translations li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  height: 20px;
+  padding: 5px 0px;
+  background-image: none;
+  background-color: #7c334f;
+  color: #ece4d8;
+
+  box-shadow: 0 3px 5px rgba(0,0,0,.5);
+}
+
+#translations .active {
+  background-color: #cd596b;
+}
+
+#translations li a {   
+  color: #ece4d8;
+  height: 20px;
+  padding: 5px 6px;
+}
+
+#translations li a:hover {
+  text-decoration: none;
+  background-color: #cd596b;
+  cursor: pointer;
+  box-shadow: 0 1px 5px rgba(0,0,0,.5)
+}
+
+#contributor {
+  color: #417090; !
+  text-decoration: underline;
+}
