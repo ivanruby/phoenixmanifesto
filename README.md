@@ -26,6 +26,11 @@ And, above everything else, **I renounce to just being alive and commit to life 
 ## Ideas, suggestions, feedback?
 If you use github/bitbucket fork this repo and submit a pull request, open an issue or simply drop me a mail at info@ivanruby.com
 
+
+## Thanks for the contributions of
+Santhi Priya, Elton Balate, Marie Lane Ntungane
+
+
 ##License
 This project is licensed under [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
