@@ -1,3 +1,7 @@
+<!-- 
+Contributors: Ivan Ruby, Elton Balate
+-->
+
 ##Manifesto
 
 Através das minhas experiências, boas e más, observações e introspeção, eu venho renunciar:
@@ -6,7 +10,7 @@ Através das minhas experiências, boas e más, observações e introspeção, e
 
 2. **Julgamento** e comprometer-me à *compreensão e entendimento*
 
-3. Esperar **perfeição** de mim e de outros e comprometer-me a *estar consciente das limitações*e fraquezas, minhas e de outros, e continuamente *melhorar dando suporte e sendo compreensivo*
+3. Esperar **perfeição** de mim e de outros e comprometer-me a *estar consciente das limitações e fraquezas*, minhas e de outros, e continuamente *melhorar dando suporte e sendo compreensivo*
 
 4. **Preguiça** e todas as suas formas e manifestações e comprometer-me a *não usar caminhos curtos, não substituir trabalho árduo, dedicação e sacrifício* mas descansar quando necessário e merecido
 
