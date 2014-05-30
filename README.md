@@ -3,6 +3,7 @@ The Phoenix Manifesto
 
 A manifesto about attitude towards life
 
+![Phoenix Manifesto Logo](https://github.com/ivanruby/phoenixmanifesto/blob/master/assets/logo.jpg)
 
 ##Manifesto
 
