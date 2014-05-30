@@ -606,3 +606,7 @@ dd p:first-child {
   color: #417090; !
   text-decoration: underline;
 }
+
+.center {
+  text-align: center;
+}
