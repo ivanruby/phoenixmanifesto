@@ -29,7 +29,7 @@ If you use github/bitbucket fork this repo and submit a pull request, open an is
 
 
 ## Thanks for the contributions of
-Santhi Priya, Elton Balate, Marie Lane Ntungane
+Ms. Santhi Priya, Elton Balate, Marie Lane Ntungane
 
 
 ##License
